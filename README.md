@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter , Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://yas05serdev.netlify.app/](https://yas05serdev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yasserlaroussi.me](https://yasserlaroussi.me)
 
 - 💬 Ask me about **Flutter , Cyber Security**
 
